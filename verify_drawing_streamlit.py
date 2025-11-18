@@ -5,7 +5,7 @@ import json
 
 # 페이지 설정
 st.set_page_config(
-    page_title="반짝반디의 베뜰 추첨 결과 검증 도구",
+    page_title="반짝반디의 추첨 결과 검증 도구",
     page_icon="🎲",
     layout="centered"
 )

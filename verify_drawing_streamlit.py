@@ -58,7 +58,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 타이틀
-st.title("🎲 추첨 결과 검증 도구")
+st.title("🎲 반짝반디의 추첨 결과 검증 도구")
 st.markdown("**Python으로 정확한 검증 (Streamlit)**")
 
 # 사용 방법 안내
